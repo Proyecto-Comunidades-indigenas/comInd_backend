@@ -66,4 +66,4 @@ https://app.swaggerhub.com/apis/InventarioProdComInd/inventario-productos_comuni
 
 La ejecución de los casos de prueba se hizo por medio de la aplicacion postman:
 
-https://go.postman.co/workspace/New-Team-Workspace~7bcc2d18-e9d7-4ab3-8b52-f701bc8801d1/collection/17863004-3e80648b-358b-4546-a590-602b23661d6f?action=share&creator=17863004
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/17863004-3e80648b-358b-4546-a590-602b23661d6f?action=collection%2Ffork&collection-url=entityId%3D17863004-3e80648b-358b-4546-a590-602b23661d6f%26entityType%3Dcollection%26workspaceId%3D7bcc2d18-e9d7-4ab3-8b52-f701bc8801d1)
