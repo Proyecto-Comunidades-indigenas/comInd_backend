@@ -50,7 +50,8 @@ para ejecutar el proyecto en local:
    ```
 El proyecto se encuentra desplegado en la plataforma heroku:
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+https://com-ind-frontend.herokuapp.com/#/user/inicio
+
 ### Diagrama de despliegue 
 
 la parte sombreada hace referencia al despliegue de componentes de la parte backend del proyecto
